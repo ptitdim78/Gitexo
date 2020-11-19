@@ -89,7 +89,7 @@ if(isset($ajoutMess)) echo $ajoutMess;
     <title>TP 2 PHP</title>
 </head>
 <body>
-<H1 class="col-md-8 text-center mx-auto">TP REPERTOIRE</H1>
+<H1 class="col-md-8 text-center mx-auto">C'est pas beau de faire du copier coller !!!</H1>
 
 <form method="post" class="col-md-4 text-center mx-auto" action="">
     <div class="form-group">
